@@ -1,0 +1,4 @@
+20190325 22:22:02 STARTINFO: Bots webserver started.
+20190325 22:22:02 STARTINFO: Bots webserver configdir: "/usr/local/lib/python2.7/dist-packages/bots/config".
+20190325 22:22:02 STARTINFO: Bots webserver serving at port: "9000".
+20190325 22:22:02 STARTINFO: Bots webserver uses plain http (no ssl).

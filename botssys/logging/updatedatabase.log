@@ -1,0 +1,17 @@
+20190201 13:42:02 INFO     updatedatabase : served at port: "9000".
+20190201 13:42:02 INFO     updatedatabase : platform: "Linux-4.9.0-7-amd64-x86_64-with-debian-9.7".
+20190201 13:42:02 INFO     updatedatabase : machine: "x86_64".
+20190201 13:42:02 INFO     updatedatabase : python version: "2.7.13".
+20190201 13:42:02 INFO     updatedatabase : django version: "(1, 6, 11, 'final', 0)".
+20190201 13:42:02 INFO     updatedatabase : bots version: "3.2.0".
+20190201 13:42:02 INFO     updatedatabase : bots installation path: "/usr/local/lib/python2.7/dist-packages/bots".
+20190201 13:42:02 INFO     updatedatabase : config path: "/usr/local/lib/python2.7/dist-packages/bots/config".
+20190201 13:42:02 INFO     updatedatabase : botssys path: "/usr/local/lib/python2.7/dist-packages/bots/botssys".
+20190201 13:42:02 INFO     updatedatabase : usersys path: "/usr/local/lib/python2.7/dist-packages/bots/usersys".
+20190201 13:42:02 INFO     updatedatabase : DATABASE_ENGINE: "django.db.backends.mysql".
+20190201 13:42:02 INFO     updatedatabase : DATABASE_NAME: "botsdb".
+20190201 13:42:02 INFO     updatedatabase : DATABASE_USER: "bots".
+20190201 13:42:02 INFO     updatedatabase : DATABASE_HOST: "127.0.0.1".
+20190201 13:42:02 INFO     updatedatabase : DATABASE_PORT: "3306".
+20190201 13:42:02 INFO     updatedatabase : DATABASE_OPTIONS: "{u'init_command': u'SET storage_engine=INNODB', u'charset': u'utf8', u'use_unicode': True}".
+20190201 13:42:02 INFO     updatedatabase : Connected to database.

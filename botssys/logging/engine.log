@@ -1,0 +1,25 @@
+20190410 18:00:01 INFO     engine : served at port: "9000".
+20190410 18:00:01 INFO     engine : platform: "Linux-4.9.0-8-amd64-x86_64-with-debian-9.7".
+20190410 18:00:01 INFO     engine : machine: "x86_64".
+20190410 18:00:01 INFO     engine : python version: "2.7.13".
+20190410 18:00:01 INFO     engine : django version: "(1, 6, 11, 'final', 0)".
+20190410 18:00:01 INFO     engine : bots version: "3.2.0".
+20190410 18:00:01 INFO     engine : bots installation path: "/usr/local/lib/python2.7/dist-packages/bots".
+20190410 18:00:01 INFO     engine : config path: "/usr/local/lib/python2.7/dist-packages/bots/config".
+20190410 18:00:01 INFO     engine : botssys path: "/usr/local/lib/python2.7/dist-packages/bots/botssys".
+20190410 18:00:01 INFO     engine : usersys path: "/usr/local/lib/python2.7/dist-packages/bots/usersys".
+20190410 18:00:01 INFO     engine : DATABASE_ENGINE: "django.db.backends.mysql".
+20190410 18:00:01 INFO     engine : DATABASE_NAME: "botsdb".
+20190410 18:00:01 INFO     engine : DATABASE_USER: "bots".
+20190410 18:00:01 INFO     engine : DATABASE_HOST: "127.0.0.1".
+20190410 18:00:01 INFO     engine : DATABASE_PORT: "3306".
+20190410 18:00:01 INFO     engine : DATABASE_OPTIONS: "{u'init_command': u'SET storage_engine=INNODB', u'charset': u'utf8', u'use_unicode': True}".
+20190410 18:00:01 INFO     engine : Connected to database.
+20190410 18:00:01 DEBUG    engine : No import of module "/usr/local/lib/python2.7/dist-packages/bots/usersys/routescripts/botsengine": No module named botsengine.
+20190410 18:00:01 INFO     engine : Run "new".
+20190410 18:00:01 INFO     engine : Run active routes from database that are in default run: "[u'route_ingram_2_swan_ack', u'route_swan_2_brodart', u'route_swan_2_ingram']".
+20190410 18:00:01 DEBUG    engine : No import of module "/usr/local/lib/python2.7/dist-packages/bots/usersys/routescripts/route_ingram_2_swan_ack": No module named route_ingram_2_swan_ack.
+20190410 18:00:01 INFO     engine : Running route route_ingram_2_swan_ack 111
+20190410 18:00:01 DEBUG    engine : Start communication channel "ch-in-INJUV-ack" type ftp in.
+20190410 18:00:01 DEBUG    engine : No import of module "/usr/local/lib/python2.7/dist-packages/bots/usersys/communicationscripts/ch-in-INJUV-ack": No module named ch-in-INJUV-ack.
+20190410 18:00:02 DEBUG    engine : Finished communication channel "ch-in-INJUV-ack" type ftp in.

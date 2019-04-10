@@ -1,0 +1,27 @@
+import bots.preprocess as preprocess
+import bots.botslib as botslib
+import bots.botsglobal as botsglobal
+from bots.botsconfig import *
+
+def preoutcommunication(routedict,*args,**kwargs):
+    preprocess.postprocess(routedict,split_lines)
+
+def split_lines(ta_from,endstatus,**argv):
+    try:
+        # copy ta for postprocessing, open the files
+        ta_to = ta_from.copyta(status=endstatus)
+        infile = botslib.opendata(ta_from.filename,'r','utf-8')
+        tofile = botslib.opendata(str(ta_to.idta),'wb','utf-8')
+        
+        print("infile")
+        print(str(ta_from))
+
+        # close files and update outmessage transaction with ta_info
+        infile.close()
+        tofile.close()
+        ta_to.update(statust=OK,filename=str(ta_to.idta))
+
+    except:
+        txt=botslib.txtexc()
+        botsglobal.logger.error((u'split_lines postprocess failed. Error:\n%s'),txt)
+        raise botslib.OutMessageError((u'split_lines postprocess failed. Error:\n$error'),error=txt)

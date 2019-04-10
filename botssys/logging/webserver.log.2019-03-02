@@ -1,0 +1,68 @@
+20190302 00:02:12 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 00:06:51 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 00:08:18 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 01:24:25 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 01:24:29 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 01:24:29 INFO     : Trying to run "bots-engine", but another instance of "bots-engine" is running. Please try again later.
+20190302 01:33:39 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 10:06:28 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 10:07:53 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 10:08:31 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 10:09:52 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 10:10:58 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 10:19:20 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 10:20:41 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 12:45:35 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 12:46:42 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 12:55:34 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 13:09:34 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 13:12:02 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 13:13:04 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 13:25:34 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 13:26:34 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 13:29:08 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 13:30:39 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 13:33:16 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 13:35:47 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 13:36:34 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 14:45:13 STARTINFO: Bots webserver started.
+20190302 14:45:13 STARTINFO: Bots webserver configdir: "/usr/local/lib/python2.7/dist-packages/bots/config".
+20190302 14:45:13 STARTINFO: Bots webserver serving at port: "9000".
+20190302 14:45:13 STARTINFO: Bots webserver uses plain http (no ssl).
+20190302 14:46:16 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 14:47:15 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 14:47:56 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 14:48:29 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 15:09:45 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 15:11:07 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 15:14:03 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 15:25:43 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 15:32:01 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 15:33:10 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 16:24:50 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 16:40:55 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 17:12:58 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 17:18:26 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 17:22:52 STARTINFO: Bots webserver started.
+20190302 17:22:52 STARTINFO: Bots webserver configdir: "/usr/local/lib/python2.7/dist-packages/bots/config".
+20190302 17:22:52 STARTINFO: Bots webserver serving at port: "9000".
+20190302 17:22:52 STARTINFO: Bots webserver uses plain http (no ssl).
+20190302 17:28:35 STARTINFO: Bots webserver started.
+20190302 17:28:35 STARTINFO: Bots webserver configdir: "/usr/local/lib/python2.7/dist-packages/bots/config".
+20190302 17:28:35 STARTINFO: Bots webserver serving at port: "9000".
+20190302 17:28:35 STARTINFO: Bots webserver uses plain http (no ssl).
+20190302 17:35:32 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 17:47:08 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 17:49:09 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 18:11:07 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 18:13:31 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 18:16:38 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 23:04:37 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 23:04:41 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 23:12:34 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 23:18:36 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 23:28:59 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 23:31:33 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 23:31:59 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 23:32:36 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
+20190302 23:33:00 INFO     : Run bots-engine with parameters: "['/usr/bin/python', u'/usr/local/bin/bots-engine.py', u'-cconfig', u'--new']"
