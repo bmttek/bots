@@ -8,10 +8,10 @@ from datetime import datetime
 import isbn as fnisbn
 
 dbConfig = {
-  'host':"192.168.54.205",
+  'host':"********",
   'user':"bibRobot",
-  'password':"Olpl114477?",
-  'database':"OLPL_Apps_BibRobot"
+  'password':"*******",
+  'database':"********"
 }
 updateOrder = ("UPDATE orderRecords SET author=%s, poNumber=%s, swanRecordNumber=%s, lineNumber=%s, ordered_at=%s WHERE id=%s")
 insertLog = ("INSERT INTO OLPL_Apps_Bib_Log (funcName, transType, recordIdent, Message, dateCreated) VALUES (%s, %s, %s, %s, %s)")
